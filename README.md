@@ -1,1 +1,2 @@
 # STemWin-Bitmap
+display bitmap
